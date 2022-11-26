@@ -1,0 +1,9 @@
+.days-week {
+    width: 20px;
+    padding: 10px;
+    background-color: #E8E8E8;
+}
+
+.days-week.-sum {
+    color: red;
+}

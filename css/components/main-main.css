@@ -1,0 +1,13 @@
+.main-main {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.main-main .table-main {
+    flex: 25%;
+    border-right: 10px solid #808080;
+    border-left: 10px solid #808080;
+    border-bottom: 10px solid #808080;
+}

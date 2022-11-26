@@ -1,0 +1,11 @@
+.days-month {
+    width: 20px;
+    padding: 10px;
+    background-color: #FBFBFB;
+    border: 4px solid #fff;
+    text-align: center;
+}
+
+.days-month.-none {
+    color: transparent;
+}
