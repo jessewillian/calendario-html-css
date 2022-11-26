@@ -4,6 +4,7 @@
     background-color: #E8E8E8;
 }
 
-.days-week.-sum {
+.days-week.-sum,
+.days-month.-sum {
     color: red;
 }

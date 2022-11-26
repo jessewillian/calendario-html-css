@@ -2,7 +2,6 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    padding: 10px;
 }
 
 .main-main .table-main {
@@ -10,4 +9,19 @@
     border-right: 10px solid #808080;
     border-left: 10px solid #808080;
     border-bottom: 10px solid #808080;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-image: linear-gradient(60deg, red, green, blue);
+    color: #fff;
+    text-shadow: 3px 3px 5px #000;
+}
+
+footer .title {
+    font-size: 20px;
+    background-image: none;
+    padding: 10px;
 }
